@@ -36,13 +36,13 @@ header {
     justify-content: space-around;
     align-items: center;
     height: 100px;
-    background-color: #2E948A;
+    background-color: #696969;
     box-shadow: rgba(0, 0, 0, 0.096) 10px 10px 10px 10px;
     margin-bottom: 100px;
 }
 
 footer {
-    background-color: #2E948A;
+    background-color: #696969;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -59,7 +59,7 @@ footer {
 }
 
 .blogtitle {
-    color: #2E948A;
+    color: #696969;
     font-weight: 800;
 }
 
@@ -146,8 +146,8 @@ footer {
 
 .botao-azulBackground {
     color: white;
-    background-color: #2E948A;
-    border: #2E948A 10px solid;
+    background-color: #FF4081;
+    border: #FF4081 10px solid;
     border-radius: 20px;
     text-decoration: none;
     padding: 0px 10px 0px 10px;
@@ -190,6 +190,6 @@ a {
 
 .line {
     height: 5px;
-    background-color: #bdbdbd;
+    background-color: #696969;
     margin: 50px 100px 50px 100px;
 }
